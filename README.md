@@ -1,2 +1,2 @@
 # KDD Paper ID: 61
-**Paper Title:** Evaluating the Robustness of Time Series Anomaly and Intrusion Detection Methods against Adversarial Attacks 
+**Paper Title:** Towards Awareness of Adversarial Vulnerability of Time Series Anomaly Detection Models
