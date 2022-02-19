@@ -1,7 +1,7 @@
 # KDD Paper ID: 61
 **Paper Title:** Towards Awareness of Adversarial Vulnerability of Time Series Anomaly Detection Models
 
-
+<img src="https://i.ibb.co/WfLfgMS/Adv-ICLR-Pipeline.png" alt="Coffee" border="0" >
 
 # Additional Experiments on UCR Dataset
 In addition to all the experiment on state-of-the-art anomaly and intrusion detection system. We also cover general time series classification task where we attack a multilayer perception (MLP), a fully convolutional network and ResNet trained on different dataset from the UCR repository. We conduct an analysis of 71 datasets from the University of California, Riverside (UCR) repository. In future work, we will expand on this experiment by including additional neural networks (MobileNet, EfficientNet, DenseNet, and Inception Time) and datasets (the remainder of the UCR dataset, datasets from the UEA repository). 
@@ -16,3 +16,4 @@ We find that the Carlini-Wagner L2 attack provides the best adversarial examples
 | <img src="https://i.ibb.co/f1cKd6z/FISH-attacks-0.png" alt="FISH" border="0" width="500"> | <img src="https://i.ibb.co/KDzGtwW/Meat-attacks-2.png" alt="Meat" border="0" width="500"> |
 |||
 | <img src="https://i.ibb.co/SyR00sK/Coffee-attacks-1.png" alt="Coffee" border="0" width="500"> | <img src="https://i.ibb.co/RCHbRQJ/Diatom-Size-Reduction-attacks-0.png" alt="Diatom-Size-Reduction" border="0" width="500"> |
+
