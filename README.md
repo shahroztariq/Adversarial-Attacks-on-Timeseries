@@ -7,6 +7,14 @@ Pipeline of a typical time series training phase and adversarial attack phase.
 ## Example of ground truth vs perturbed time series using FGSM and PGD attacks on CLMPPCA
 <img src="https://i.ibb.co/NW9CtM1/Realvs-Adv.png" alt="Coffee" border="0" width="500" ><img src="https://i.ibb.co/pJ7mfmX/Realvs-Adv-error.png" alt="Coffee" border="0" width="500" >
 
+## FGSM and PGD attacks on MSCRED (left) and  MTAD-GAT (right)
+
+<img src="https://i.ibb.co/Sm4SpFy/MSCRED.png" alt="Coffee" border="0" width="500" ><img src="https://i.ibb.co/j5LMBYB/MTAD.png" alt="Coffee" border="0" width="500" >
+<!---
+<img src="https://i.ibb.co/87Fxy61/MSCRED-3.png" alt="Coffee" border="0" width="500" >
+-->
+
+
 
 
 # Additional Experiments on UCR Dataset
