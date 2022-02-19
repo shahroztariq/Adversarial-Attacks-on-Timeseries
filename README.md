@@ -1,7 +1,13 @@
 # KDD Paper ID: 61
 **Paper Title:** Towards Awareness of Adversarial Vulnerability of Time Series Anomaly Detection Models
-
+## Overview
+Pipeline of a typical time series training phase and adversarial attack phase.
 <img src="https://i.ibb.co/WfLfgMS/Adv-ICLR-Pipeline.png" alt="Coffee" border="0" >
+
+## Example of ground truth vs perturbed time series using FGSM and PGD attacks on CLMPPCA
+<img src="https://i.ibb.co/NW9CtM1/Realvs-Adv.png" alt="Coffee" border="0" width="500" ><img src="https://i.ibb.co/pJ7mfmX/Realvs-Adv-error.png" alt="Coffee" border="0" width="500" >
+
+
 
 # Additional Experiments on UCR Dataset
 In addition to all the experiment on state-of-the-art anomaly and intrusion detection system. We also cover general time series classification task where we attack a multilayer perception (MLP), a fully convolutional network and ResNet trained on different dataset from the UCR repository. We conduct an analysis of 71 datasets from the University of California, Riverside (UCR) repository. In future work, we will expand on this experiment by including additional neural networks (MobileNet, EfficientNet, DenseNet, and Inception Time) and datasets (the remainder of the UCR dataset, datasets from the UEA repository). 
