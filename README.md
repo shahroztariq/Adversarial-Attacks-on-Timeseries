@@ -1,4 +1,4 @@
-### **Paper Title:** Towards an Awareness of Time Series Anomaly Detection Models’ Adversarial Vulnerability
+## **Paper Title:** Towards an Awareness of Time Series Anomaly Detection Models’ Adversarial Vulnerability
 
 ## Overview
 
