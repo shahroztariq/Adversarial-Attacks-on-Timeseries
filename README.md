@@ -1,5 +1,5 @@
-# KDD Paper ID: 61
-### **Paper Title:** Towards Awareness of Adversarial Vulnerability of Time Series Anomaly Detection Models
+# CIKM Paper ID: 2641
+### **Paper Title:** Towards an Awareness of Time Series Anomaly Detection Models’ Adversarial Vulnerability
 
 ## Overview
 
