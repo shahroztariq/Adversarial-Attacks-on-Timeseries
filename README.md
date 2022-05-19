@@ -1,6 +1,6 @@
-## **Paper Title:** Towards an Awareness of Time Series Anomaly Detection Models’ Adversarial Vulnerability
+## Towards an Awareness of Time Series Anomaly Detection Models’ Adversarial Vulnerability
 
-## Overview
+### Overview
 
 #### Pipeline of a typical time series training phase and adversarial attack phase
 <img src="https://i.ibb.co/WfLfgMS/Adv-ICLR-Pipeline.png" alt="Coffee" border="0">
